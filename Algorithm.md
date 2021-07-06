@@ -27,3 +27,16 @@
 
 ------
 </details>
+
+
+<details markdown="1">
+<summary><strong>📄 단계별로 풀어보기 </strong></summary>
+
+
+| 문제 |  종류  |  난이도  |                  URL                  |
+| :-------: | :---: | :---: | :-----------------------------------: | 
+| 블랙잭 | 브루트포스 |  B2  | https://www.acmicpc.net/problem/2798 |    
+| 덩치 | 브루트포스 | S5  | https://www.acmicpc.net/problem/7568 |
+
+------
+</details>
