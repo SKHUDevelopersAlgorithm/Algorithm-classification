@@ -28,5 +28,10 @@
 - 문제 : [[백준] 1145번](https://www.acmicpc.net/problem/1145)
 - 난이도 : B1
 - 풀이 : doeunllee
+- 
+### 08-06
+- 문제 : [[프로그래머스] 부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)
+- 난이도 : Level1
+- 풀이 : MojitoBar
 
 
